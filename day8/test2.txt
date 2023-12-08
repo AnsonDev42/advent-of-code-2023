@@ -1,0 +1,10 @@
+LR
+
+QQA = (QQB, XXX)
+QQB = (XXX, QQZ)
+QQZ = (QQB, XXX)
+WWA = (WWB, XXX)
+WWB = (WWC, WWC)
+WWC = (WWZ, WWZ)
+WWZ = (WWB, WWB)
+XXX = (XXX, XXX)
